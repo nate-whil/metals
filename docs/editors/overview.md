@@ -105,7 +105,7 @@ functionality.
   </tr>
   <tr>
     <td>Run/Debug</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
